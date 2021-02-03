@@ -36,6 +36,7 @@ Refers to the "Has A" principle i.e we can compose a system from child classes o
 
 To group components under a common class ie, Stages in a venue.
 
+
 public class Venue(
 
     private ArrayList<Stages> stages;
