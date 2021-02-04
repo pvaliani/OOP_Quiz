@@ -16,7 +16,7 @@ public class Guitar implements IStrum {
 
 3. What can we use to implement polymorphism in Java?
 
-In Java we can use interface implementation and Class inheritance
+In Java we can use interface implementation, abstract classes and Class inheritance.
 
 4. How many 'forms' can an object take when using polymorphism?
 
@@ -24,7 +24,7 @@ Classes utilising inheritance can hold two forms but with the use of interfaces 
 
 5. Give an example of when you could use polymorphism.
 
-We can use polymorphism 
+We can use polymorphism when you need to utilise a method from a different type. We can use it when we have a collection of different types of objects that we want to add to one collection. 
 
 
 # Composition
